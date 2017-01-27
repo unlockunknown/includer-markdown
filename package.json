@@ -1,0 +1,25 @@
+{
+  "name": "includermarkdown",
+  "version": "0.0.1",
+  "description": "This is a includer to markdown files. Beta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unlockunknown/includer-markdown-js.git"
+  },
+  "keywords": [
+    "Includer",
+    "Markdown"
+  ],
+  "author": "\"UnlockUnknown <unlockunknown92@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unlockunknown/includer-markdown-js/issues"
+  },
+  "homepage": "https://github.com/unlockunknown/includer-markdown-js#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
